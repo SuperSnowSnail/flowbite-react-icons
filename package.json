@@ -2,9 +2,20 @@
   "name": "flowbite-react-icons",
   "private": false,
   "version": "1.0.0",
+  "description": "flowbite-react-icons is a small library containing all 487 Flowbite Icons as customizable React components.",
+  "keywords": [
+    "flowbite",
+    "react",
+    "icons",
+    "svg",
+    "tailwind",
+    "tailwindcss"
+  ],
+  "homepage": "https://flowbite-react-icons.vercel.app",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SuperSnowSnail/flowbite-react-icons"
+    "url": "git+https://github.com/SuperSnowSnail/flowbite-react-icons.git"
   },
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
