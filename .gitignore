@@ -1,3 +1,20 @@
+# PROJECT SPECIFIC .gitignore RULES:
+# Build directories
+dist
+storybook-static
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# DEFAULT .gitignore TEMPLATE:
 # Logs
 logs
 *.log
