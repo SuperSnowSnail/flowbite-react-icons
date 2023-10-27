@@ -35,8 +35,8 @@
     "test:cov": "vitest run --coverage",
     "prepare": "husky install",
     "generate:all": "npm run generate:icons && npm run generate:stories",
-    "generate:icons": "ts-node ./src/generateIcons.ts && prettier --write ./src/components/Icons.tsx",
-    "generate:stories": "ts-node ./src/generateStories.ts && prettier --write ./src/stories/IconsList.stories.tsx"
+    "generate:icons": "ts-node ./src/generators/generateIcons.ts && prettier --write ./src/components/Icons.tsx",
+    "generate:stories": "ts-node ./src/generators/generateStories.ts && prettier --write ./src/stories/IconsList.stories.tsx"
   },
   "dependencies": {
     "tailwind-merge": "^1.14.0"
