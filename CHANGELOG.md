@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/SuperSnowSnail/flowbite-react-icons/compare/v1.0.0...v1.0.1) (2023-10-27)
+
+
+### Bug Fixes
+
+* Update package.json with additional info ([#6](https://github.com/SuperSnowSnail/flowbite-react-icons/issues/6)) ([6cdc0ac](https://github.com/SuperSnowSnail/flowbite-react-icons/commit/6cdc0ac209886d6c2a964e2a2556f6c43c2627c6))
+
 ## 1.0.0 (2023-10-27)
 
 
