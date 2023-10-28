@@ -1,7 +1,7 @@
 {
   "name": "flowbite-react-icons",
   "private": false,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Small library containing all 487 Flowbite Icons as customizable React components.",
   "keywords": [
     "flowbite",
