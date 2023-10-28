@@ -2,7 +2,7 @@
 
 Small library containing all 487 [Flowbite Icons](https://flowbite.com/icons/) as customizable React components.
 
-<font size='5'>[Demo page with all icons via Storybook](https://flowbite-react-icons.vercel.app/)</font>
+### [Demo page with all icons via Storybook](https://flowbite-react-icons.vercel.app/)
 
 ## Installation proccess
 
