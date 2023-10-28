@@ -2,7 +2,7 @@
   "name": "flowbite-react-icons",
   "private": false,
   "version": "1.0.1",
-  "description": "flowbite-react-icons is a small library containing all 487 Flowbite Icons as customizable React components.",
+  "description": "Small library containing all 487 Flowbite Icons as customizable React components.",
   "keywords": [
     "flowbite",
     "react",
@@ -13,6 +13,7 @@
   ],
   "homepage": "https://flowbite-react-icons.vercel.app",
   "license": "MIT",
+  "author": "Andrei Koroteev <f2961@yandex.ru> (https://github.com/SuperSnowSnail/)",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SuperSnowSnail/flowbite-react-icons.git"
