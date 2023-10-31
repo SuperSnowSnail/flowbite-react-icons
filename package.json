@@ -51,7 +51,7 @@
     "generate:stories": "ts-node ./src/generators/generateStories.ts && prettier --write ./src/stories/IconsList.stories.tsx"
   },
   "dependencies": {
-    "tailwind-merge": "^1.14.0"
+    "tailwind-merge": "^2.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.23.2",
